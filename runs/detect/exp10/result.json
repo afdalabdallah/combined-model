@@ -1,0 +1,138 @@
+{
+    "directory": "runs\\detect\\exp10",
+    "path": "runs\\detect\\exp10\\IMG20231214210246.jpg",
+    "prediction": [
+        {
+            "class": 1,
+            "label": "body2",
+            "confidence": 0.11075938493013382,
+            "bounding_box": [
+                2139.0,
+                5811.0,
+                2865.0,
+                7307.0
+            ]
+        },
+        {
+            "class": 2,
+            "label": "foot",
+            "confidence": 0.11080484092235565,
+            "bounding_box": [
+                3268.0,
+                7222.0,
+                3881.0,
+                7845.0
+            ]
+        },
+        {
+            "class": 4,
+            "label": "skin",
+            "confidence": 0.11292117834091187,
+            "bounding_box": [
+                2061.0,
+                7266.0,
+                2693.0,
+                7827.0
+            ]
+        },
+        {
+            "class": 4,
+            "label": "skin",
+            "confidence": 0.1491309106349945,
+            "bounding_box": [
+                632.0,
+                4936.0,
+                1078.0,
+                5401.0
+            ]
+        },
+        {
+            "class": 0,
+            "label": "body1",
+            "confidence": 0.2550162672996521,
+            "bounding_box": [
+                958.0,
+                3337.0,
+                1224.0,
+                3672.0
+            ]
+        },
+        {
+            "class": 4,
+            "label": "skin",
+            "confidence": 0.2813832759857178,
+            "bounding_box": [
+                3560.0,
+                3448.0,
+                4263.0,
+                5591.0
+            ]
+        },
+        {
+            "class": 4,
+            "label": "skin",
+            "confidence": 0.3055526316165924,
+            "bounding_box": [
+                1448.0,
+                3445.0,
+                2215.0,
+                5513.0
+            ]
+        },
+        {
+            "class": 3,
+            "label": "leg",
+            "confidence": 0.30708080530166626,
+            "bounding_box": [
+                3051.0,
+                5725.0,
+                3840.0,
+                7356.0
+            ]
+        },
+        {
+            "class": 3,
+            "label": "leg",
+            "confidence": 0.34753885865211487,
+            "bounding_box": [
+                2249.0,
+                5889.0,
+                2830.0,
+                7202.0
+            ]
+        },
+        {
+            "class": 1,
+            "label": "body2",
+            "confidence": 0.48017969727516174,
+            "bounding_box": [
+                2086.0,
+                4932.0,
+                3819.0,
+                5957.0
+            ]
+        },
+        {
+            "class": 4,
+            "label": "skin",
+            "confidence": 0.4883309304714203,
+            "bounding_box": [
+                2532.0,
+                1804.0,
+                3285.0,
+                2861.0
+            ]
+        },
+        {
+            "class": 0,
+            "label": "body1",
+            "confidence": 0.5137806534767151,
+            "bounding_box": [
+                1917.0,
+                2698.0,
+                3878.0,
+                5098.0
+            ]
+        }
+    ]
+}
